@@ -1,4 +1,4 @@
 # Snake
 Snake Game
 
-<a href="http://www.patelniks58.github.io"> DEMO </a>
+<a href="https://snakegamebynik.000webhostapp.com/"> DEMO </a>
